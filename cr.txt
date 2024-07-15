@@ -9,7 +9,6 @@
 {"url":"http://akun.work.gd/upload/18cj.json","name":"🔞18采集"},
 {"url":"http://akun.work.gd/upload/kk.json","name":"🔞168采集1"},
 {"url":"https://tg.sjdpay.top/1.json","name":"🔞168采集2"},
-
 {"url":"https://huhujunxx.neocities.org/AV.json","name":"🈚Huhujun线路"},
 
 {"url":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json","name":"🔞二哈社区(H)"},
